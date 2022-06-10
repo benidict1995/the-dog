@@ -1,10 +1,14 @@
-package com.benidict.the_dog.ui.theme
+package com.benidict.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
+import androidx.compose.material.Shapes
 import androidx.compose.material.darkColors
 import androidx.compose.material.lightColors
 import androidx.compose.runtime.Composable
+import com.benidict.theme.resources.*
+import com.benidict.theme.shape.shapes
+import com.benidict.theme.style.typography
 
 private val DarkColorPalette = darkColors(
     primary = Purple200,
@@ -37,8 +41,8 @@ fun ThedogTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable
 
     MaterialTheme(
         colors = colors,
-        typography = Typography,
-        shapes = Shapes,
+        typography = typography,
+        shapes = shapes,
         content = content
     )
 }

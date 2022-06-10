@@ -6,6 +6,7 @@ import androidx.compose.ui.unit.sp
 /**
  * Dimens use for padding and margin
  **/
+val material_resources_0dp = 0.dp
 val material_resources_1dp = 1.dp
 val material_resources_2dp = 2.dp
 val material_resources_3dp = 3.dp
