@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/the-dog.iml" filepath="$PROJECT_DIR$/.idea/modules/the-dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/the-dog.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/the-dog.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/the-dog.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/the-dog.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/the-dog.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/the-dog.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/the-dog.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/the-dog.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/the-dog.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/the-dog.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/the-dog.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/the-dog.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/the-dog.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/the-dog.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/the-dog.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/the-dog.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/the-dog.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/the-dog.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/the-dog.domain.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/the-dog.domain.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/the-dog.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/the-dog.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/the-dog.domain.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/the-dog.domain.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/the-dog.network.iml" filepath="$PROJECT_DIR$/.idea/modules/network/the-dog.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/the-dog.network.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/network/the-dog.network.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/the-dog.network.main.iml" filepath="$PROJECT_DIR$/.idea/modules/network/the-dog.network.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/the-dog.network.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/network/the-dog.network.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/theme/the-dog.theme.iml" filepath="$PROJECT_DIR$/.idea/modules/theme/the-dog.theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/theme/the-dog.theme.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/theme/the-dog.theme.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/theme/the-dog.theme.main.iml" filepath="$PROJECT_DIR$/.idea/modules/theme/the-dog.theme.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/theme/the-dog.theme.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/theme/the-dog.theme.unitTest.iml" />
+    </modules>
+  </component>
+</project>

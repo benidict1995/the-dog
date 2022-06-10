@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "the-dog"
 include ':app'
+include ':theme'
+include ':data'
+include ':domain'
+include ':network'
